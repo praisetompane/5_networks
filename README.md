@@ -1,7 +1,7 @@
 # 5_networks
 
 # sources:
-* Neso Academy -Introduction to Computer Networks
-    https://www.youtube.com/watch?v=VwN91x5i25g&list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx
+* MIT 6.02 Introduction to EECS via Communication Networks
+    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/
 
         
