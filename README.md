@@ -7,9 +7,6 @@ collection of connected machines
     
 * MIT 6.02 Introduction to EECS via Communication Networks
     https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/
-
-* A Mathematical Theory of Communication
-    https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/lecture-notes/MIT6_045JS11_lec01.pdf
     
 # Legend
 * In progress
