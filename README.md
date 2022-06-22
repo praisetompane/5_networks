@@ -1,5 +1,7 @@
-# (WIP) 5_networks
+# 5_networks
 unpack what a network is and its role in the implementation of computation.
+
+**Disclaimer**: This is an ongoing and incomplete project to unpack these concepts.
 
 def¹:collection of connected machines that communicate through a protocol(language){HTTP, gRCP,...}
 # references:
